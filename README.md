@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ligvigfui - Boldizsár NÉMETH
 - 👀 I’m interested in c# and rust
 - 🏢 I’m currently working at Gloster-P92 informatikai kft as an ASP.NET core and vue developer 
-- 🎓 I'm learning rust and machine learning
+- 🎓 I'm learning rust
 - 📫 Reach me at nemeth.boldizsar0@gmail.com
 
 <!---
